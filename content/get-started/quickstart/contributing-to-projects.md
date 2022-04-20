@@ -1,5 +1,5 @@
 ---
-title: Contributing to projects
+title: exsan is going to contributing to projects
 intro: Learn how to contribute to a project through forking.
 permissions: '{% data reusables.enterprise-accounts.emu-permission-fork %}'
 versions:
